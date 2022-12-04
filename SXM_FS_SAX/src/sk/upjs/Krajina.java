@@ -10,7 +10,7 @@ import java.util.List;
 public class Krajina {
 	
 	/**
-	 * presný názov štátu
+	 * presnï¿½ nï¿½zov ï¿½tï¿½tu
 	 */
 	
 	private String stat;
@@ -47,7 +47,7 @@ public class Krajina {
 			termin.vypis();
 		}
 	}
-
+	//novy komentar
 	
 
 }
