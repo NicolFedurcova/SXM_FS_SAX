@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PonukaDovoleniek rok="2023">
+		<Zajazd kategoria="Poznavacie">
+			<Krajina stat="Portugalsko">  
+				<Termin datum="20.6.2023 - 29.6.2023">
+					<Mesto>Lisabon</Mesto>
+					<Hotel>Lux Lisboa Park</Hotel>
+					<Doprava>Letecka</Doprava>
+					<PocetOsob>1</PocetOsob>
+					<Cena>990</Cena>
+				</Termin>
+				<Termin datum="10.8.2023 - 20.8.2023">
+					<Mesto>Porto</Mesto>
+					<Hotel>Family Park Porto Portese</Hotel>
+					<Doprava>Autobusova</Doprava>
+					<PocetOsob>2</PocetOsob>
+					<Cena>1250</Cena>
+					<Poznamka><![CDATA[Veľmi výhodná&štedrá ponuka.]]></Poznamka>
+				</Termin>
+			</Krajina>	
+			<Krajina stat="Turecko">  
+				<Termin datum="13.4.2023 - 20.4.2023">
+					<Mesto>Istanbul</Mesto>
+					<Hotel>Melas Hotel Istanbul</Hotel>
+					<Doprava>Letecka</Doprava>
+					<PocetOsob>1</PocetOsob>
+					<Cena>14500</Cena>
+				</Termin>
+				<Termin datum="7.10.2023-17.10.2023">
+					<Mesto>Antalya</Mesto>
+					<Hotel>Selina Boutique Hotel</Hotel>
+					<Doprava>Autobusova</Doprava>
+					<PocetOsob>1</PocetOsob>
+					<Cena>18500</Cena>
+				</Termin>
+			</Krajina>		
+		</Zajazd>
+		<Zajazd kategoria="Luxusne">
+			<Krajina stat="Zanzibar">  
+				<Termin datum="12.2.2023 - 22.2.2023">
+					<Mesto>Matemwe</Mesto>
+					<Hotel>Hotel Emerald</Hotel>
+					<Doprava>Letecka</Doprava>
+					<PocetOsob>1</PocetOsob>
+					<Cena mena="TanzanskySiling">8417000</Cena>
+				</Termin>
+				<Termin datum="1.3.2023-8.3.2023">
+					<Mesto>Paje</Mesto>
+					<Hotel>Paje Beach Apartments</Hotel>
+					<Doprava>Letecka+Autobusova</Doprava>
+					<PocetOsob>2</PocetOsob>
+					<Cena>11870000</Cena>
+				</Termin>
+			</Krajina>	
+			<Krajina stat="MaleDivy">  
+				<Termin datum="1.1.2023-11.1.2023">
+					<Mesto>Faafu</Mesto>
+					<Hotel>Balma Beach Inn</Hotel>
+					<Doprava>Letecka+Lodna</Doprava>
+					<PocetOsob>2</PocetOsob>
+					<Cena>96845</Cena>
+				</Termin>
+				<Termin datum="7.10.2023-17.10.2023">
+					<Mesto>Meedhoo</Mesto>
+					<Hotel>Island Resort</Hotel>
+					<Doprava>Letecka+Lodna</Doprava>
+					<PocetOsob>1</PocetOsob>
+					<Cena>46845</Cena>
+				</Termin>
+			</Krajina>		
+		</Zajazd>	
+</PonukaDovoleniek>
